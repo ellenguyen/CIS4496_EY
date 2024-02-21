@@ -1,0 +1,4 @@
+train: ./Annotated_Data/YOLODataset/images/train/
+val: ./Annotated_Data/YOLODataset/images/val/
+nc: 0
+names: []
