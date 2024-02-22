@@ -16,10 +16,10 @@
 - Create a machine learning model to evaluate storm damage from satellite imagery 
 - Compete in the [EY Open Science Data Challenge Program](https://challenge.ey.com/) 
 **Detect four different objects** in a satellite image of a cyclone impacted area:
-- Undamaged residential building 
-- Damaged residential building 
-- Undamaged commercial building 
-- Damaged commercial building 
+	- Undamaged residential building 
+	- Damaged residential building 
+	- Undamaged commercial building 
+	- Damaged commercial building 
 
 ### Primary Data: 
 - **Mandatory datasets:** *High-resolution* satellite images before and after tropical cyclone Maria 
