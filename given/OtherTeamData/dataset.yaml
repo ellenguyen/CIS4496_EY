@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['damagedcommercialbuilding', 'damagedresidentialbuilding', 'undamagedcommercialbuilding', 'undamagedresidentialbuilding']
+
+roboflow:
+  workspace: eyhackathon2024
+  project: master-apaav
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/eyhackathon2024/master-apaav/dataset/2

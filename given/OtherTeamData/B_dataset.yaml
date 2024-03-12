@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['damagedcommercialbuilding', 'damagedresidentialbuilding', 'undamagedcommercialbuilding', 'undamagedresidentialbuilding']
+
+roboflow:
+  workspace: sampaiathenstak
+  project: buildings-ditz1
+  version: 14
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/sampaiathenstak/buildings-ditz1/dataset/14
