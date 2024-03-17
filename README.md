@@ -6,7 +6,10 @@
 
 ### Resources: 
 - https://github.com/satellite-image-deep-learning 
-- https://github.com/labelmeai/labelme 
+- https://github.com/labelmeai/labelme
+- Segment Anything
+- YOLOV8
+- Spacenet 
 
 
 
