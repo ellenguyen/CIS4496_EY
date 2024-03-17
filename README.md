@@ -1,4 +1,5 @@
 ## CIS 4496 - Projects in Data Science - Spring 2024 - EY Project 
+## [Progress on Course Project](https://github.com/ellenguyen/CIS4496_EY/blob/main/PROGRESS.md) 
 ## *Tropical Storm Damage Detection Model* 
 ## Mary Le, Will Schenk, & Elle Nguyen 
 ## [EY Launch Page](https://challenge.ey.com/challenges/tropical-cyclone-damage-assessment-lrrno2xm) 
