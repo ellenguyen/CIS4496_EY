@@ -18,9 +18,10 @@
 - These alternate open-source online datasets can assist in model training. For example, bounding boxes or segmentation features already created by similar projects could aid our models.  
 ### Rio de Janeiro Dataset - Spacenet 
 > [Link to data imported from AWS S3 Bucket](https://spacenet.ai/rio-de-janeiro/) 
-- This dataset consists of already generated tiles $[(200 \space m \space x \space 200)$, $(3.1 \space GB), (\text{year } 2018)]$ of the coastal city of Rio De Janeiro, Brazil. The regions geographic features, consisting of dense urban streets situated among steep forested mountain terrain perfectly matches that of San Juan, PR. A folder of bounding boxes in geojson format identify all buildings in the Rio region is also included. By printing out the bounding boxes overlaying the tiles, it is clear these annotations are nearly perfect and likely hand-drawn. 
-- This dataset can serve as a high quality, already pre-processed dataset to train simple (single label) building detection models on. 
-- We converted the geojson dataset to the annotation formats of COCO, YOLO, MASK, and Pixel Coordinates to [allow for the convenient training of various potential ML models](https://drive.google.com/drive/folders/1GoOg6lXnZKLkdUBzkEeXa4DhqUVbEqw6?usp=sharing). 
+- This dataset consists of already generated tiles $[(200 \space m \space x \space 200)$, $(3.1 \space GB), (\text{year } 2018)]$ of the coastal city of Rio De Janeiro, Brazil. The regions geographic features, consisting of dense urban streets situated among steep forested mountain terrain perfectly matches that of San Juan, PR. A folder of polygons in geojson format identify all buildings in the Rio region is also included. 
+- This dataset is simple (single label)  
+- We converted the geojson dataset to the annotation formats of COCO, YOLO, MASK, and Pixel Coordinates to [allow for the convenient training of various potential ML models](https://drive.google.com/drive/folders/1GoOg6lXnZKLkdUBzkEeXa4DhqUVbEqw6?usp=sharing).
+- Also converted to regular bounding boxes 
 ### EY Open Data Science Projects  - Other participants publicly posted labels on Roboflow 
 - Since many there are many other people completing the same project whose instructions were originally set by EY, there are many recently created annotation datasets of San Juan online. Roboflow is free resource that allows for quick annotation of features, and simultaneously posts these annotations online for the public to see. 
 - By identifying high quality and unique annotation datasets of San Juan posted on Roboflow, we can quickly expand our training data. 
