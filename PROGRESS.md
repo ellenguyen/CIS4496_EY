@@ -29,14 +29,9 @@
 
 > Add information about this process here 
 
-### Priming Dataset with Feature Recognition Using Segment Anything 
-Resource: https://samgeo.gishub.org/examples/satellite/ 
-> Does anyone remember what this is called again? I've already asked our teacher like 3 times, I just forget. 
-- Create annotations that will allow our ML model to better parse image features. These polygon annotations provide "context" to how ground truth is related to other general features in the image. 
-- Example: Four long, $90$ degree polygons forming a cross +. This shape feature will train our neural network to recognize standard + intersections as likely residential streets. 
-	- The neural network doesn't need to know what the polygons are. It's task is to only identify correlations between shapes on the image and ground truths (building / building type annotations). 
+~### Priming Dataset with Feature Recognition Using Segment Anything~ 
 
-> Add information about this process here 
+
 ## Part 3: Create Functionality for the Quick Visualization of Images and Annotations 
 - Code that goes in and visualizes bounding boxes and polygons over tile images. 
 
