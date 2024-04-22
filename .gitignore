@@ -400,3 +400,8 @@ FodyWeavers.xsd
 
 
 code/deliverable/model_results/MultiClassModelLongerTraining_results/results_validation/weights/best.pt 
+
+code/deliverable/model_results/Hierarchical/best_btc.pt 
+code/deliverable/model_results/Hierarchical/best_bda.pt 
+
+
