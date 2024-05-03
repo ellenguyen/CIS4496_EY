@@ -1,8 +1,9 @@
 ## CIS 4496 - Projects in Data Science - Spring 2024 - EY Project 
-## *Tropical Storm Damage Detection Model* 
+## *Disaster Response Model* 
 ## Mary Le, Will Schenk, & Elle Nguyen 
 ## [Progress on Course Project](https://github.com/ellenguyen/CIS4496_EY/blob/main/PROGRESS.md) 
 ## [Tracking Tasks](https://github.com/ellenguyen/CIS4496_EY/issues) 
+## [Final Presentation](https://docs.google.com/presentation/d/1g9MoIych6u9fCxoHpOORPI937LsfCAuh2bTUsL_2lNg/edit?usp=sharing)
 
 
 ### Resources: 
@@ -66,7 +67,7 @@
 > 5. Polina Berezina and Desheng Liu, Hurricane damage assessment using coupled convolutional neural networks: a case study of hurricane Michael, Geomatics, Natural Hazards and Risk, 2022.
 > 6. Quoc Dung Cao and Youngjun Choe, Post-Hurricane Damage Assessment Using Satellite Imagery and Geolocation Features, 2020. 
 
-##### How we’ll be Evaluated 
+##### How we’ll be evaluated 
 > An **out-of-sample [validation dataset (Submission data)](./given/Submission%20data)** will be provided to participants. Your **submission/prediction (.zip file)**, will be **compared** with the ground **truth file and a metric mAP (Mean Average Precision)** will be generated to evaluate the performance of the model. 
 > Refer to the sample notebook to understand the needed format of annotations 
 #### Key Recommendations:  
